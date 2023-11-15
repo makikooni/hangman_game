@@ -7,8 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+<<<<<<< HEAD
 		7F3D063E2B043F49008F9B74 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F3D063D2B043F49008F9B74 /* Game.swift */; };
 		7F3D06402B044BB5008F9B74 /* WordList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F3D063F2B044BB5008F9B74 /* WordList.swift */; };
+=======
+>>>>>>> 9912bc3699186535ab9be53f0c5139dfb35367ac
 		7FD0C4AC2B02E34000AE37EF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FD0C4AB2B02E34000AE37EF /* AppDelegate.swift */; };
 		7FD0C4AE2B02E34000AE37EF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FD0C4AD2B02E34000AE37EF /* SceneDelegate.swift */; };
 		7FD0C4B02B02E34000AE37EF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FD0C4AF2B02E34000AE37EF /* ViewController.swift */; };
@@ -18,8 +21,11 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+<<<<<<< HEAD
 		7F3D063D2B043F49008F9B74 /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
 		7F3D063F2B044BB5008F9B74 /* WordList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordList.swift; sourceTree = "<group>"; };
+=======
+>>>>>>> 9912bc3699186535ab9be53f0c5139dfb35367ac
 		7FD0C4A82B02E34000AE37EF /* hangman.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hangman.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7FD0C4AB2B02E34000AE37EF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7FD0C4AD2B02E34000AE37EF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -44,8 +50,11 @@
 		7FD0C49F2B02E34000AE37EF = {
 			isa = PBXGroup;
 			children = (
+<<<<<<< HEAD
 				7F3D063F2B044BB5008F9B74 /* WordList.swift */,
 				7F3D063D2B043F49008F9B74 /* Game.swift */,
+=======
+>>>>>>> 9912bc3699186535ab9be53f0c5139dfb35367ac
 				7FD0C4AA2B02E34000AE37EF /* hangman */,
 				7FD0C4A92B02E34000AE37EF /* Products */,
 			);
@@ -147,8 +156,11 @@
 				7FD0C4B02B02E34000AE37EF /* ViewController.swift in Sources */,
 				7FD0C4AC2B02E34000AE37EF /* AppDelegate.swift in Sources */,
 				7FD0C4AE2B02E34000AE37EF /* SceneDelegate.swift in Sources */,
+<<<<<<< HEAD
 				7F3D063E2B043F49008F9B74 /* Game.swift in Sources */,
 				7F3D06402B044BB5008F9B74 /* WordList.swift in Sources */,
+=======
+>>>>>>> 9912bc3699186535ab9be53f0c5139dfb35367ac
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
